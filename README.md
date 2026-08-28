@@ -120,5 +120,5 @@ Fallstricke sind vollständig.
 
 ## Lizenz
 
-Keine Lizenzdatei — damit gilt das gesetzliche Urheberrecht. Nutzung für eigene Makros ist
-ausdrücklich erwünscht.
+[MIT](LICENSE). Nutzung für eigene Makros ist ausdrücklich erwünscht. Das Projekt ist privat
+und selbstgebaut und steht in keiner Verbindung zu GSE oder SimulationCraft.

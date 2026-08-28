@@ -121,4 +121,5 @@ Nothing was removed technically — all measurements, derivations and pitfalls a
 
 ## Licence
 
-No licence file, so ordinary copyright applies. Use for your own macros is expressly welcome.
+[MIT](LICENSE). Use for your own macros is expressly welcome. This is a private, self-built
+project and is not affiliated with GSE or SimulationCraft.
